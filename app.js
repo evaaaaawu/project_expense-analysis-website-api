@@ -13,9 +13,6 @@ require('./config/mongoose')
 const app = express() //建構應用程式伺服器
 const port = process.env.PORT || 3000
 
-//DELETE app.use(express.json())
-//DELETE app.use(express.urlencoded({ extended: true }))
-//DELETE app.use(bodyParser.urlencoded({ extended: true }))
 app.use(bodyParser.json())
 app.use(methodOverride('_method'))
 //TODO app.use(cors())
