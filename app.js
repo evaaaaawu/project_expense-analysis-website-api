@@ -1,19 +1,24 @@
-// if (process.env.NODE_ENV !== 'production') {
-//   require('dotenv').config()
-// }
+if (process.env.NODE_ENV !== 'production') {
+  require('dotenv').config()
+}
 
 const express = require('express')
 const bodyParser = require('body-parser')
-// const cors = require('cors')
-const routes = require('./routes')
+const methodOverride = require('method-override')
+//TODO const cors = require('cors')
 
-const app = express()
+const routes = require('./routes')
+require('./config/mongoose')
+
+const app = express() //建構應用程式伺服器
 const port = process.env.PORT || 3000
 
+//DELETE app.use(express.json())
+//DELETE app.use(express.urlencoded({ extended: true }))
+//DELETE app.use(bodyParser.urlencoded({ extended: true }))
 app.use(bodyParser.json())
-// app.use(cors())
-app.use(express.urlencoded({ extended: true }))
-app.use(express.json())
+app.use(methodOverride('_method'))
+//TODO app.use(cors())
 app.use(routes)
 
 app.listen(port, () => {
