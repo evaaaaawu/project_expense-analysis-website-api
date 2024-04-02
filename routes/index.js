@@ -10,7 +10,7 @@ router.get('/', (req, res) => {
 
 // signup & signin
 router.post('/api/users', userController.signUp)
-router.post('/api/signin', userController.signIn)
+router.post('/api/users/login', userController.signIn)
 
 // 更多的路由定義可以在這裡添加
 
