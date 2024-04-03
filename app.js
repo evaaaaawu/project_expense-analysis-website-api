@@ -7,8 +7,8 @@ const bodyParser = require('body-parser')
 const methodOverride = require('method-override')
 const cors = require('cors')
 
-const routes = require('./routes')
 require('./config/mongoose')
+const routes = require('./routes')
 
 const { generalErrorHandler } = require('./middleware/error-handler')
 
