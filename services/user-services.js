@@ -2,6 +2,7 @@ const User = require("../models/user");
 const createError = require("http-errors");
 const bcrypt = require("bcryptjs");
 const jwt = require("jsonwebtoken");
+const JWT_SECRET = process.env.JWT_SECRET;
 
 const userServices = {
   signUp: async (req, cb) => {
@@ -51,7 +52,7 @@ const userServices = {
       const isMatch = await bcrypt.compare(password, user.password);
       if (!isMatch) throw createError(401, "Incorrect account or password.");
       const token = jwt.sign(
-          {id: user._id}, process.env.JWT_SECRET, {expiresIn: "30d"},
+          {id: user._id}, JWT_SECRET, {expiresIn: "30d"},
       );
       const userData = user.toJSON();
       delete userData.password;
