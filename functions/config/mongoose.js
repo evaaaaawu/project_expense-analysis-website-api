@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 const functions = require("firebase-functions");
 
-const MONGODB_URI = functions.config().mongo.uri;
+const MONGODB_URI = functions.config().mongodb.uri;
 mongoose.connect(MONGODB_URI);
 
 // 取得資料庫連線狀態
