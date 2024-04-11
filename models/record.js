@@ -6,7 +6,7 @@ const recordSchema = new Schema({
     type: Schema.Types.ObjectId,
     ref: "Category",
     index: true,
-    require: true,
+    required: true,
   },
   amount: {
     type: Number,
@@ -24,7 +24,7 @@ const recordSchema = new Schema({
     type: Schema.Types.ObjectId,
     ref: "User",
     index: true,
-    require: true,
+    required: true,
   },
   createdAt: {
     type: Date,

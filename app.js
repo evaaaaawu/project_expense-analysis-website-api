@@ -7,6 +7,7 @@ const bodyParser = require("body-parser");
 const methodOverride = require("method-override");
 const cors = require("cors");
 
+const helpers = require("./_helpers");
 require("./config/mongoose");
 const routes = require("./routes");
 
@@ -18,6 +19,10 @@ const port = process.env.PORT || 3000;
 app.use(bodyParser.json());
 app.use(methodOverride("_method"));
 app.use(cors()); // 這會允許所有跨域請求
+app.use((req, res, next) => {
+  res.locals.user = helpers.getUser(req);
+  next();
+});
 app.use(routes);
 app.use(generalErrorHandler); // 在所有路由之後使用錯誤處理中間件
 
