@@ -53,7 +53,7 @@ const userServices = {
       const isMatch = await bcrypt.compare(password, user.password);
       if (!isMatch) throw createError(401, "Incorrect account or password.");
       const token = jwt.sign(
-          {id: user._id}, JWT_SECRET, {expiresIn: "30d"},
+          {sub: user._id}, JWT_SECRET, {expiresIn: "30d"},
       );
       const userData = user.toJSON();
       delete userData.password;

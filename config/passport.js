@@ -10,17 +10,12 @@ const jwtOptions = {
   secretOrKey: process.env.JWT_SECRET,
 };
 
-passport.use(new JwtStrategy(jwtOptions, ((jwtPayload, done) => {
-  User.findOne({_id: jwtPayload.sub}, (err, user) => {
-    if (err) {
-      return done(err, false);
-    }
-    if (user) {
-      return done(null, user);
-    } else {
-      return done(null, false);
-    }
+passport.use(new JwtStrategy(jwtOptions, (jwtPayload, done) => {
+  User.findById(jwtPayload.id).then((user) => {
+    return done(null, user);
+  }).catch((err) => {
+    return done(err, false);
   });
-})));
+}));
 
 module.exports = passport;

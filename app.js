@@ -6,12 +6,11 @@ const express = require("express");
 const bodyParser = require("body-parser");
 const methodOverride = require("method-override");
 const cors = require("cors");
+const passport = require("passport");
 
 const helpers = require("./_helpers");
 require("./config/mongoose");
 const routes = require("./routes");
-
-const {generalErrorHandler} = require("./middleware/error-handler");
 
 const app = express(); // 建構應用程式伺服器
 const port = process.env.PORT || 3000;
@@ -23,8 +22,8 @@ app.use((req, res, next) => {
   res.locals.user = helpers.getUser(req);
   next();
 });
+app.use(passport.initialize());
 app.use(routes);
-app.use(generalErrorHandler); // 在所有路由之後使用錯誤處理中間件
 
 app.listen(port, () => {
   console.log(`Express is listening on localhost:${port}`);

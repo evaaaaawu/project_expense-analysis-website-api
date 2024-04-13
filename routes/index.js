@@ -2,16 +2,18 @@ const express = require("express");
 const router = express.Router();
 
 const userController = require("../controllers/user-controller");
+const categoryController = require("../controllers/category-controller");
 
-// 定義一些路由
-router.get("/", (req, res) => {
-  res.send("Hello World!");
-});
+const {authenticated} = require("../middleware/auth");
+const {generalErrorHandler} = require("../middleware/error-handler");
 
 // signup & signin
 router.post("/api/users", userController.signUp);
 router.post("/api/users/login", userController.signIn);
 
-// 更多的路由定義可以在這裡添加
+// category
+router.post("/api/categories", authenticated, categoryController.addCategory);
+
+router.use("/", generalErrorHandler);
 
 module.exports = router;
