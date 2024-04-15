@@ -13,6 +13,7 @@ router.post("/api/users/login", userController.signIn);
 
 // category
 router.post("/api/categories", authenticated, categoryController.addCategory);
+router.get("/api/categories", authenticated, categoryController.getCategories);
 
 router.use("/", generalErrorHandler);
 

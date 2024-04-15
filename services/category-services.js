@@ -22,6 +22,14 @@ const categoryServices = {
       cb(err);
     }
   },
+  getCategories: async (userId, cb) => {
+    try {
+      const categories = await Category.find({userId});
+      cb(null, {status: "success", categories});
+    } catch (err) {
+      cb(err);
+    }
+  },
 };
 
 module.exports = categoryServices;
