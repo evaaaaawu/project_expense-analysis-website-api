@@ -30,6 +30,34 @@ const categoryServices = {
       cb(err);
     }
   },
+  updateCategory: async (categoryId, userId, categoryData, cb) => {
+    try {
+      const updatedCategory = await Category.findOneAndUpdate(
+          {_id: categoryId, userId: userId},
+          {$set: categoryData},
+          {new: true},
+      );
+      if (!updatedCategory) {
+        throw createError(404, "Category not found or user not authorized.");
+      }
+      cb(null, {status: "success", category: updatedCategory});
+    } catch (err) {
+      cb(err);
+    }
+  },
+  deleteCategory: async (categoryId, userId, cb) => {
+    try {
+      const deletedCategory = await Category.findOneAndDelete(
+          {_id: categoryId, userId: userId},
+      );
+      if (!deletedCategory) {
+        throw createError(404, "Category not found or user not authorized.");
+      }
+      cb(null, {status: "success", category: deletedCategory});
+    } catch (err) {
+      cb(err);
+    }
+  },
 };
 
 module.exports = categoryServices;
