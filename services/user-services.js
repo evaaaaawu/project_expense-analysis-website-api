@@ -1,4 +1,5 @@
 const User = require("../models/user");
+const Category = require("../models/category");
 const createError = require("http-errors");
 const bcrypt = require("bcryptjs");
 const jwt = require("jsonwebtoken");
@@ -32,6 +33,47 @@ const userServices = {
           {id: newUser._id.toString()}, JWT_SECRET, {expiresIn: "30d"},
       );
       const userData = newUser.toJSON();
+      // 新增預設的 Category 資料
+      const defaultCategories = [{
+        userId: newUser._id,
+        mainCategory: "Food",
+        subCategories: ["breakfast", "lunch", "dinner", "snack"],
+      }, {
+        userId: newUser._id,
+        mainCategory: "Health Insurance",
+        subCategories: ["dentist", "sick", "insurance"],
+      }, {
+        userId: newUser._id,
+        mainCategory: "Communication",
+        subCategories: ["phone bill"],
+      }, {
+        userId: newUser._id,
+        mainCategory: "Daily Necessities",
+        subCategories: ["toilet paper"],
+      }, {
+        userId: newUser._id,
+        mainCategory: "Beauty",
+        subCategories: ["hair", "makeup", "skincare", "clothes"],
+      }, {
+        userId: newUser._id,
+        mainCategory: "Places",
+        subCategories: ["coffee shop"],
+      }, {
+        userId: newUser._id,
+        mainCategory: "Learning",
+        subCategories:
+          ["programming", "software product", "seminar/conference/workshop"],
+      }, {
+        userId: newUser._id,
+        mainCategory: "Improve Quality of Life",
+        subCategories: ["work equipment", "home appliances"],
+      }, {
+        userId: newUser._id,
+        mainCategory: "Entertainment",
+        subCategories: ["family", "friend", "personal"],
+      }];
+      // 批量插入預設資料
+      await Category.insertMany(defaultCategories); // 批量插入預設資料
       delete userData.password;
       cb(null, {
         status: "success",
