@@ -28,11 +28,15 @@ const userServices = {
         email,
         password: hash,
       });
+      const token = jwt.sign(
+          {id: newUser._id.toString()}, JWT_SECRET, {expiresIn: "30d"},
+      );
       const userData = newUser.toJSON();
       delete userData.password;
       cb(null, {
         status: "success",
         message: "Registration successful!",
+        token,
         user: userData,
       });
     } catch (err) {
