@@ -2,11 +2,17 @@ const mongoose = require("mongoose");
 const Schema = mongoose.Schema;
 
 const recordSchema = new Schema({
-  categoryId: {
-    type: Schema.Types.ObjectId,
-    ref: "Category",
-    index: true,
-    required: true,
+  category: {
+    mainCategory: {
+      type: Schema.Types.ObjectId,
+      ref: "Category",
+      required: true,
+    },
+    subCategory: {
+      type: Schema.Types.ObjectId,
+      ref: "Category",
+      required: true,
+    },
   },
   amount: {
     type: Number,

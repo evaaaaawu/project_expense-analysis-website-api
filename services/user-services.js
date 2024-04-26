@@ -82,6 +82,7 @@ const userServices = {
         user: userData,
       });
     } catch (err) {
+      console.error("Failed to sign up:", err);
       cb(err);
     }
   },
@@ -109,6 +110,7 @@ const userServices = {
         user: userData,
       });
     } catch (err) {
+      console.error("Failed to sign in:", err);
       cb(err);
     }
   },

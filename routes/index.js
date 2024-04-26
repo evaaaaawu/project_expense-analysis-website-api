@@ -3,6 +3,7 @@ const router = express.Router();
 
 const userController = require("../controllers/user-controller");
 const categoryController = require("../controllers/category-controller");
+const recordController = require("../controllers/record-controller");
 
 const {authenticated} = require("../middleware/auth");
 const {generalErrorHandler} = require("../middleware/error-handler");
@@ -19,6 +20,16 @@ router.put(
 );
 router.delete(
     "/api/categories/:id", authenticated, categoryController.deleteCategory,
+);
+
+// record
+router.post("/api/records", authenticated, recordController.addRecord);
+router.get("/api/records", authenticated, recordController.getRecords);
+router.put(
+    "/api/records/:id", authenticated, recordController.updateRecord,
+);
+router.delete(
+    "/api/records/:id", authenticated, recordController.deleteRecord,
 );
 
 router.use("/", generalErrorHandler);
