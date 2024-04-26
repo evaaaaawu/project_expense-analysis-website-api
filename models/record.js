@@ -8,11 +8,11 @@ const recordSchema = new Schema({
       ref: "Category",
       required: true,
     },
-    subCategory: [{
+    subCategory: {
       type: Schema.Types.ObjectId,
       ref: "Category",
       required: true,
-    }],
+    },
   },
   amount: {
     type: Number,

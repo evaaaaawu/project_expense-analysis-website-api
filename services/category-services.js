@@ -19,6 +19,7 @@ const categoryServices = {
       });
       cb(null, {status: "success", category: newCategory});
     } catch (err) {
+      console.error("Failed to add category:", err);
       cb(err);
     }
   },
@@ -27,6 +28,7 @@ const categoryServices = {
       const categories = await Category.find({userId});
       cb(null, {status: "success", categories});
     } catch (err) {
+      console.error("Failed to get categories:", err);
       cb(err);
     }
   },
@@ -42,6 +44,7 @@ const categoryServices = {
       }
       cb(null, {status: "success", category: updatedCategory});
     } catch (err) {
+      console.error("Failed to update category:", err);
       cb(err);
     }
   },
@@ -55,6 +58,7 @@ const categoryServices = {
       }
       cb(null, {status: "success", category: deletedCategory});
     } catch (err) {
+      console.error("Failed to delete category:", err);
       cb(err);
     }
   },
