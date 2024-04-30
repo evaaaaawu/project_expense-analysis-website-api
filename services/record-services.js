@@ -1,37 +1,23 @@
 const Record = require("../models/record");
-const Category = require("../models/category");
 const createError = require("http-errors");
-
-const isValidSubCategory = async (mainCategoryId, subCategoryId) => {
-  const mainCategory = await Category.findById(mainCategoryId);
-  return mainCategory && mainCategory.subCategories.includes(subCategoryId);
-};
 
 const recordServices = {
   addRecord: async (req, cb) => {
     try {
-      const {mainCategory, subCategory, amount, date, note} = req.body;
+      const {amount, mainCategory, subCategory, date, note} = req.body;
       const userId = req.user._id;
 
+      if (!amount) {
+        throw createError(400, "Amount is required.");
+      }
       if (!mainCategory) {
         throw createError(400, "Main category is required.");
       }
       if (!subCategory) {
         throw createError(400, "Sub category is required.");
       }
-      if (!amount) {
-        throw createError(400, "Amount is required.");
-      }
       if (!date) {
         throw createError(400, "Date is required.");
-      }
-      // Check if the subCategory belongs to the mainCategory
-      const validSubCategory =
-          await isValidSubCategory(mainCategory, subCategory);
-      if (!validSubCategory) {
-        throw createError(
-            400, "Sub category does not belong to the main category.",
-        );
       }
       const newRecord = await Record.create({
         userId,

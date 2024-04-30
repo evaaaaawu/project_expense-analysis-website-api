@@ -13,14 +13,21 @@ const categorySchema = new Schema({
     required: true,
   },
   subCategories: {
-    type: [String],
+    type: [{
+      name: {
+        type: String,
+        required: true,
+      },
+      _id: {
+        type: Schema.Types.ObjectId, // MongoDB will automatically generate _id
+        auto: true,
+      },
+    }],
     validate: {
       validator: function(v) {
-        return v.length >= 1; // 確保至少有一個子分類
+        return v.length >= 1; // Ensure at least one subcategory
       },
-      message: (props) =>
-        `${props.value} is not a valid subcategory array! 
-        Must have at least one subcategory.`,
+      message: "At least one subcategory is required.",
     },
   },
 });

@@ -34,46 +34,68 @@ const userServices = {
       );
       const userData = newUser.toJSON();
       // 新增預設的 Category 資料
-      const defaultCategories = [{
-        userId: newUser._id,
-        mainCategory: "Food",
-        subCategories: ["breakfast", "lunch", "dinner", "snack"],
-      }, {
-        userId: newUser._id,
-        mainCategory: "Health Insurance",
-        subCategories: ["dentist", "sick", "insurance"],
-      }, {
-        userId: newUser._id,
-        mainCategory: "Communication",
-        subCategories: ["phone bill"],
-      }, {
-        userId: newUser._id,
-        mainCategory: "Daily Necessities",
-        subCategories: ["toilet paper"],
-      }, {
-        userId: newUser._id,
-        mainCategory: "Beauty",
-        subCategories: ["hair", "makeup", "skincare", "clothes"],
-      }, {
-        userId: newUser._id,
-        mainCategory: "Places",
-        subCategories: ["coffee shop"],
-      }, {
-        userId: newUser._id,
-        mainCategory: "Learning",
-        subCategories:
-          ["programming", "software product", "seminar/conference/workshop"],
-      }, {
-        userId: newUser._id,
-        mainCategory: "Improve Quality of Life",
-        subCategories: ["work equipment", "home appliances"],
-      }, {
-        userId: newUser._id,
-        mainCategory: "Entertainment",
-        subCategories: ["family", "friend", "personal"],
-      }];
+      const defaultCategories = [
+        {
+          userId: newUser._id,
+          mainCategory: "Food",
+          subCategories: [
+            {name: "breakfast"}, {name: "lunch"},
+            {name: "dinner"}, {name: "snack"},
+          ],
+        },
+        {
+          userId: newUser._id,
+          mainCategory: "Health Insurance",
+          subCategories: [
+            {name: "dentist"}, {name: "sick"}, {name: "insurance"},
+          ],
+        },
+        {
+          userId: newUser._id,
+          mainCategory: "Communication",
+          subCategories: [{name: "phone bill"}],
+        },
+        {
+          userId: newUser._id,
+          mainCategory: "Daily Necessities",
+          subCategories: [{name: "toilet paper"}],
+        },
+        {
+          userId: newUser._id,
+          mainCategory: "Beauty",
+          subCategories: [
+            {name: "hair"}, {name: "makeup"},
+            {name: "skincare"}, {name: "clothes"},
+          ],
+        },
+        {
+          userId: newUser._id,
+          mainCategory: "Places",
+          subCategories: [{name: "coffee shop"}],
+        },
+        {
+          userId: newUser._id,
+          mainCategory: "Learning",
+          subCategories: [
+            {name: "programming"}, {name: "software product"},
+            {name: "seminar/conference/workshop"},
+          ],
+        },
+        {
+          userId: newUser._id,
+          mainCategory: "Improve Quality of Life",
+          subCategories: [{name: "work equipment"}, {name: "home appliances"}],
+        },
+        {
+          userId: newUser._id,
+          mainCategory: "Entertainment",
+          subCategories: [
+            {name: "family"}, {name: "friend"}, {name: "personal"},
+          ],
+        },
+      ];
       // 批量插入預設資料
-      await Category.insertMany(defaultCategories); // 批量插入預設資料
+      await Category.insertMany(defaultCategories);
       delete userData.password;
       cb(null, {
         status: "success",
