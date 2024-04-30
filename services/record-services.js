@@ -1,4 +1,6 @@
 const Record = require("../models/record");
+
+const mongoose = require("mongoose");
 const createError = require("http-errors");
 
 const recordServices = {
@@ -34,8 +36,53 @@ const recordServices = {
   },
   getRecords: async (userId, cb) => {
     try {
-      const records = await Record.find({userId});
-      cb(null, {status: "success", records});
+      // 使用 .populate() 來填充 mainCategory
+      const records = await Record.find({userId}).populate({
+        path: "category.mainCategory",
+        model: "Category",
+        select: "mainCategory",
+      });
+      // 轉換 records 為聚合管道可接受的格式
+      const recordsWithSub = await Record.aggregate([
+        {$match: {userId: new mongoose.Types.ObjectId(userId)}},
+        {
+          $lookup: {
+            from: "categories",
+            localField: "category.subCategory",
+            foreignField: "subCategories._id",
+            as: "subCategoryDetails",
+          },
+        },
+        {$unwind: "$subCategoryDetails"},
+        {$unwind: "$subCategoryDetails.subCategories"},
+        {
+          $match: {
+            $expr: {
+              $eq: [
+                "$category.subCategory",
+                "$subCategoryDetails.subCategories._id",
+              ],
+            },
+          },
+        },
+        {
+          $addFields: {
+            "subCategoryName": "$subCategoryDetails.subCategories.name",
+          },
+        },
+      ]);
+      // 結合 mainCategory 的填充結果與 subCategory 聚合查詢的結果
+      const combinedRecords = records.map((record) => {
+        const subCategory = recordsWithSub.find(
+            (sub) => sub._id.equals(record._id),
+        );
+        return {
+          ...record.toObject(),
+          subCategoryName: subCategory ? subCategory.subCategoryName : null,
+        };
+      });
+
+      cb(null, {status: "success", records: combinedRecords});
     } catch (err) {
       console.error("Failed to get records:", err);
       cb(err);
