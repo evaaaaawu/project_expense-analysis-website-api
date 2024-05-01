@@ -1,6 +1,5 @@
 const Record = require("../models/record");
 
-const mongoose = require("mongoose");
 const createError = require("http-errors");
 
 const recordServices = {
@@ -44,7 +43,7 @@ const recordServices = {
       });
       // 轉換 records 為聚合管道可接受的格式
       const recordsWithSub = await Record.aggregate([
-        {$match: {userId: new mongoose.Types.ObjectId(userId)}},
+        {$match: {userId: userId}},
         {
           $lookup: {
             from: "categories",
