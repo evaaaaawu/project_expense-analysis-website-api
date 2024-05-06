@@ -91,7 +91,15 @@ const recordServices = {
     try {
       const updatedRecord = await Record.findOneAndUpdate(
           {_id: recordId, userId: userId},
-          {$set: recordData},
+          {
+            $set: {
+              "category.mainCategory": recordData.mainCategory,
+              "category.subCategory": recordData.subCategory,
+              "amount": recordData.amount,
+              "date": recordData.date,
+              "note": recordData.note,
+            },
+          },
           {new: true},
       );
       if (!updatedRecord) {
