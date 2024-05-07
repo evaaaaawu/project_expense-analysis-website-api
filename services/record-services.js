@@ -35,15 +35,18 @@ const recordServices = {
   },
   getRecords: async (userId, cb) => {
     try {
-      // 使用 .populate() 來填充 mainCategory
-      const records = await Record.find({userId}).populate({
-        path: "category.mainCategory",
-        model: "Category",
-        select: "mainCategory",
-      });
-      // 轉換 records 為聚合管道可接受的格式
-      const recordsWithSub = await Record.aggregate([
+      const records = await Record.aggregate([
         {$match: {userId: userId}},
+        {$sort: {date: -1}}, // 按日期降序
+        {
+          $lookup: {
+            from: "categories",
+            localField: "category.mainCategory",
+            foreignField: "_id",
+            as: "mainCategoryDetails",
+          },
+        },
+        {$unwind: "$mainCategoryDetails"},
         {
           $lookup: {
             from: "categories",
@@ -66,22 +69,27 @@ const recordServices = {
         },
         {
           $addFields: {
+            "mainCategoryName": "$mainCategoryDetails.mainCategory",
             "subCategoryName": "$subCategoryDetails.subCategories.name",
+            "mainCategoryId": "$mainCategoryDetails._id",
+            "subCategoryId": "$subCategoryDetails.subCategories._id",
+          },
+        },
+        {
+          $project: {
+            _id: 1,
+            amount: 1,
+            date: 1,
+            note: 1,
+            mainCategoryName: 1,
+            subCategoryName: 1,
+            mainCategoryId: 1,
+            subCategoryId: 1,
           },
         },
       ]);
-      // 結合 mainCategory 的填充結果與 subCategory 聚合查詢的結果
-      const combinedRecords = records.map((record) => {
-        const subCategory = recordsWithSub.find(
-            (sub) => sub._id.equals(record._id),
-        );
-        return {
-          ...record.toObject(),
-          subCategoryName: subCategory ? subCategory.subCategoryName : null,
-        };
-      });
 
-      cb(null, {status: "success", records: combinedRecords});
+      cb(null, {status: "success", records: records});
     } catch (err) {
       console.error("Failed to get records:", err);
       cb(err);
