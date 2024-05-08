@@ -1,5 +1,6 @@
 const recordServices = require("../services/record-services");
 
+
 const recordController = {
   addRecord: (req, res, next) => {
     recordServices.addRecord(req, (err, data) =>
@@ -7,8 +8,10 @@ const recordController = {
     );
   },
   getRecords: (req, res, next) => {
-    recordServices.getRecords(req.user._id, (err, data) =>
-      err ? next(err) : res.status(200).json(data),
+    const {startDate, endDate} = req.query;
+    recordServices.getRecords(
+        req.user._id, new Date(startDate), new Date(endDate),
+        (err, data) => err ? next(err) : res.status(200).json(data),
     );
   },
   updateRecord: (req, res, next) => {

@@ -33,10 +33,18 @@ const recordServices = {
       cb(err);
     }
   },
-  getRecords: async (userId, cb) => {
+  getRecords: async (userId, startDate, endDate, cb) => {
     try {
-      const records = await Record.aggregate([
-        {$match: {userId: userId}},
+      // 建立聚合管道
+      const pipeline = [
+        {
+          $match: {
+            userId: userId,
+            ...(startDate && endDate ?
+              {date: {$gte: new Date(startDate), $lte: new Date(endDate)}}:
+              {}),
+          },
+        },
         {$sort: {date: -1}}, // 按日期降序
         {
           $lookup: {
@@ -87,8 +95,9 @@ const recordServices = {
             subCategoryId: 1,
           },
         },
-      ]);
+      ];
 
+      const records = await Record.aggregate(pipeline);
       cb(null, {status: "success", records: records});
     } catch (err) {
       console.error("Failed to get records:", err);

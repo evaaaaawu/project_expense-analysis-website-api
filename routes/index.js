@@ -25,6 +25,7 @@ router.delete(
 // record
 router.post("/api/records", authenticated, recordController.addRecord);
 router.get("/api/records", authenticated, recordController.getRecords);
+router.get("/api/records", authenticated, recordController.getRecords);
 router.put(
     "/api/records/:id", authenticated, recordController.updateRecord,
 );
