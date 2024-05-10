@@ -32,6 +32,10 @@ const recordSchema = new Schema({
     index: true,
     required: true,
   },
+  isSeedData: {
+    type: Boolean,
+    default: false,
+  },
   createdAt: {
     type: Date,
     default: Date.now,

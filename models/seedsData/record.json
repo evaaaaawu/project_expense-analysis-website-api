@@ -1,0 +1,4363 @@
+[
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-05-09",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-05-08",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-05-07",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-05-06",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 499,
+    "mainCategory": "Beauty",
+    "subCategory": "hair",
+    "date": "2024-05-05",
+    "note": "洗+剪"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-05-03",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-05-02",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-05-01",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 2012,
+    "mainCategory": "Health Insurance",
+    "subCategory": "insurance",
+    "date": "2024-05-01",
+    "note": "勞健保費"
+  },
+  {
+    "amount": 201,
+    "mainCategory": "Learning",
+    "subCategory": "programming",
+    "date": "2024-05-01",
+    "note": "(攤提) ExplainThis E+ 成長計劃 年費 NT$2409 (2024.01.22 開始) 1/12"
+  },
+  {
+    "amount": 227,
+    "mainCategory": "Learning",
+    "subCategory": "software product",
+    "date": "2024-05-01",
+    "note": "(攤提) Heptabase 2679 + 40(國外交易手續費) 1/12"
+  },
+  {
+    "amount": 622,
+    "mainCategory": "Learning",
+    "subCategory": "software product",
+    "date": "2024-05-01",
+    "note": "GPT-4"
+  },
+  {
+    "amount": 598,
+    "mainCategory": "Improve Quality of Life",
+    "subCategory": "work equipment",
+    "date": "2024-05-01",
+    "note": "(攤提) BOSE QuietComfort 45 1/12"
+  },
+  {
+    "amount": 399,
+    "mainCategory": "Communication",
+    "subCategory": "phone bill",
+    "date": "2024-05-01",
+    "note": "台灣大哥大"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-04-30",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-04-29",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-04-26",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-04-25",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-04-24",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-04-23",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-04-22",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 350,
+    "mainCategory": "Entertainment",
+    "subCategory": "friend",
+    "date": "2024-04-21",
+    "note": "桌遊營地"
+  },
+  {
+    "amount": 423,
+    "mainCategory": "Entertainment",
+    "subCategory": "friend",
+    "date": "2024-04-21",
+    "note": "AKA CAFE"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-04-19",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-04-18",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2024-04-18",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-04-17",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-04-16",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-04-15",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-04-12",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-04-08",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-04-03",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 7083,
+    "mainCategory": "Health Insurance",
+    "subCategory": "dentist",
+    "date": "2024-04-01",
+    "note": "(攤提) 植牙費用 1/12"
+  },
+  {
+    "amount": 2012,
+    "mainCategory": "Health Insurance",
+    "subCategory": "insurance",
+    "date": "2024-04-01",
+    "note": "勞健保費"
+  },
+  {
+    "amount": 201,
+    "mainCategory": "Learning",
+    "subCategory": "programming",
+    "date": "2024-04-01",
+    "note": "(攤提) ExplainThis E+ 成長計劃 年費 NT$2409 (2024.01.22 開始) 1/12"
+  },
+  {
+    "amount": 227,
+    "mainCategory": "Learning",
+    "subCategory": "software product",
+    "date": "2024-04-01",
+    "note": "(攤提) Heptabase 2679 + 40(國外交易手續費) 1/12"
+  },
+  {
+    "amount": 598,
+    "mainCategory": "Improve Quality of Life",
+    "subCategory": "work equipment",
+    "date": "2024-04-01",
+    "note": "(攤提) BOSE QuietComfort 45 1/12"
+  },
+  {
+    "amount": 399,
+    "mainCategory": "Communication",
+    "subCategory": "phone bill",
+    "date": "2024-04-01",
+    "note": "台灣大哥大"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-03-28",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2024-03-28",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-03-27",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2024-03-27",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-03-26",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-03-25",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-03-21",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2024-03-21",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-03-20",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2024-03-20",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-03-18",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2024-03-18",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 487,
+    "mainCategory": "Food",
+    "subCategory": "dinner",
+    "date": "2024-03-16",
+    "note": "京站晚餐"
+  },
+  {
+    "amount": 78,
+    "mainCategory": "Entertainment",
+    "subCategory": "family",
+    "date": "2024-03-16",
+    "note": "星巴克蜜柚紅茶特大杯買一送一"
+  },
+  {
+    "amount": 298,
+    "mainCategory": "Entertainment",
+    "subCategory": "family",
+    "date": "2024-03-16",
+    "note": "電影: 去唱卡拉 OK 吧"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-03-15",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2024-03-15",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-03-14",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 13,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2024-03-14",
+    "note": "茶葉蛋*1"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-03-11",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2024-03-11",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-03-06",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2024-03-06",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-03-04",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2024-03-04",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 300,
+    "mainCategory": "Food",
+    "subCategory": "dinner",
+    "date": "2024-03-02",
+    "note": "雞肉蘇菜燴黑醋定食"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-03-01",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 7083,
+    "mainCategory": "Health Insurance",
+    "subCategory": "dentist",
+    "date": "2024-03-01",
+    "note": "(攤提) 植牙費用 1/12"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2024-03-01",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 2012,
+    "mainCategory": "Health Insurance",
+    "subCategory": "insurance",
+    "date": "2024-03-01",
+    "note": "勞健保費"
+  },
+  {
+    "amount": 201,
+    "mainCategory": "Learning",
+    "subCategory": "programming",
+    "date": "2024-03-01",
+    "note": "(攤提) ExplainThis E+ 成長計劃 年費 NT$2409 (2024.01.22 開始) 1/12"
+  },
+  {
+    "amount": 227,
+    "mainCategory": "Learning",
+    "subCategory": "software product",
+    "date": "2024-03-01",
+    "note": "(攤提) Heptabase 2679 + 40(國外交易手續費) 1/12"
+  },
+  {
+    "amount": 650,
+    "mainCategory": "Learning",
+    "subCategory": "software product",
+    "date": "2024-03-01",
+    "note": "GPT-4"
+  },
+  {
+    "amount": 598,
+    "mainCategory": "Improve Quality of Life",
+    "subCategory": "work equipment",
+    "date": "2024-03-01",
+    "note": "(攤提) BOSE QuietComfort 45 1/12"
+  },
+  {
+    "amount": 399,
+    "mainCategory": "Communication",
+    "subCategory": "phone bill",
+    "date": "2024-03-01",
+    "note": "台灣大哥大"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-02-29",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2024-02-29",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 4147,
+    "mainCategory": "Beauty",
+    "subCategory": "clothes",
+    "date": "2024-02-28",
+    "note": "眼鏡"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-02-27",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2024-02-27",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-02-26",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2024-02-26",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-02-23",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2024-02-23",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-02-22",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2024-02-22",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-02-21",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2024-02-21",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-02-20",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2024-02-20",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-02-19",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2024-02-19",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-02-17",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2024-02-17",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-02-16",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2024-02-16",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-02-15",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2024-02-15",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 69,
+    "mainCategory": "Health Insurance",
+    "subCategory": "sick",
+    "date": "2024-02-11",
+    "note": "凡士林"
+  },
+  {
+    "amount": 198,
+    "mainCategory": "Health Insurance",
+    "subCategory": "sick",
+    "date": "2024-02-11",
+    "note": "眼藥水*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-02-07",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2024-02-07",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-02-06",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2024-02-06",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-02-05",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2024-02-05",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 566,
+    "mainCategory": "Learning",
+    "subCategory": "programming",
+    "date": "2024-02-04",
+    "note": "book: React 思維進化"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-02-02",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2024-02-02",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-02-01",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 7083,
+    "mainCategory": "Health Insurance",
+    "subCategory": "dentist",
+    "date": "2024-02-01",
+    "note": "(攤提) 植牙費用 1/12"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2024-02-01",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 2012,
+    "mainCategory": "Health Insurance",
+    "subCategory": "insurance",
+    "date": "2024-02-01",
+    "note": "勞健保費"
+  },
+  {
+    "amount": 201,
+    "mainCategory": "Learning",
+    "subCategory": "programming",
+    "date": "2024-02-01",
+    "note": "(攤提) ExplainThis E+ 成長計劃 年費 NT$2409 (2024.01.22 開始) 1/12"
+  },
+  {
+    "amount": 227,
+    "mainCategory": "Learning",
+    "subCategory": "software product",
+    "date": "2024-02-01",
+    "note": "(攤提) Heptabase 2679 + 40(國外交易手續費) 1/12"
+  },
+  {
+    "amount": 598,
+    "mainCategory": "Improve Quality of Life",
+    "subCategory": "work equipment",
+    "date": "2024-02-01",
+    "note": "(攤提) BOSE QuietComfort 45 1/12"
+  },
+  {
+    "amount": 399,
+    "mainCategory": "Communication",
+    "subCategory": "phone bill",
+    "date": "2024-02-01",
+    "note": "台灣大哥大"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-01-31",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2024-01-31",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-01-30",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2024-01-30",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-01-29",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2024-01-29",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-01-26",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2024-01-26",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-01-25",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2024-01-25",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 200,
+    "mainCategory": "Learning",
+    "subCategory": "seminar/conference/workshop",
+    "date": "2024-01-25",
+    "note": "轉職經驗講座"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-01-24",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2024-01-24",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 36,
+    "mainCategory": "Learning",
+    "subCategory": "programming",
+    "date": "2024-01-24",
+    "note": "E+ 訂閱 國外交易手續費"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-01-23",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 18,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2024-01-23",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-01-22",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 18,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2024-01-22",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-01-19",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2024-01-19",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-01-18",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2024-01-18",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-01-17",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2024-01-17",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-01-16",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2024-01-16",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 53,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-01-15",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 837,
+    "mainCategory": "Entertainment",
+    "subCategory": "friend",
+    "date": "2024-01-13",
+    "note": "星光聚餐"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-01-12",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2024-01-12",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-01-11",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2024-01-11",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-01-10",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2024-01-10",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 3500,
+    "mainCategory": "Communication",
+    "subCategory": "phone bill",
+    "date": "2024-01-10",
+    "note": "手機維修費"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-01-09",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2024-01-09",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-01-08",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2024-01-08",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-01-05",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2024-01-05",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-01-04",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2024-01-04",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-01-03",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2024-01-03",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2024-01-02",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2024-01-02",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 7083,
+    "mainCategory": "Health Insurance",
+    "subCategory": "dentist",
+    "date": "2024-01-01",
+    "note": "(攤提) 植牙費用 1/12"
+  },
+  {
+    "amount": 2012,
+    "mainCategory": "Health Insurance",
+    "subCategory": "insurance",
+    "date": "2024-01-01",
+    "note": "勞健保費"
+  },
+  {
+    "amount": 201,
+    "mainCategory": "Learning",
+    "subCategory": "programming",
+    "date": "2024-01-01",
+    "note": "(攤提) ExplainThis E+ 成長計劃 1/12"
+  },
+  {
+    "amount": 227,
+    "mainCategory": "Learning",
+    "subCategory": "software product",
+    "date": "2024-01-01",
+    "note": "(攤提) Heptabase 2679 + 40(國外交易手續費) 1/12"
+  },
+  {
+    "amount": 531,
+    "mainCategory": "Learning",
+    "subCategory": "software product",
+    "date": "2024-01-01",
+    "note": "GPT-4"
+  },
+  {
+    "amount": 598,
+    "mainCategory": "Improve Quality of Life",
+    "subCategory": "work equipment",
+    "date": "2024-01-01",
+    "note": "(攤提) BOSE QuietComfort 45 1/12"
+  },
+  {
+    "amount": 599,
+    "mainCategory": "Communication",
+    "subCategory": "phone bill",
+    "date": "2024-01-01",
+    "note": "台灣大哥大"
+  },
+  {
+    "amount": 62,
+    "mainCategory": "Health Insurance",
+    "subCategory": "dentist",
+    "date": "2023-12-29",
+    "note": "看牙醫交通費"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-12-28",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 18,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-12-28",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-12-27",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 18,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-12-27",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-12-26",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-12-26",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-12-25",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-12-25",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-12-22",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-12-22",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-12-21",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-12-21",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-12-20",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-12-20",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-12-19",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-12-19",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-12-18",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 62,
+    "mainCategory": "Health Insurance",
+    "subCategory": "dentist",
+    "date": "2023-12-18",
+    "note": "看牙醫交通費"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-12-18",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-12-15",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-12-15",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-12-14",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-12-14",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-12-13",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-12-13",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-12-12",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-12-12",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-12-11",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-12-11",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-12-08",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-12-08",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-12-07",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-12-07",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-12-06",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-12-06",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-12-05",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-12-05",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-12-04",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-12-04",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-12-01",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 7083,
+    "mainCategory": "Health Insurance",
+    "subCategory": "dentist",
+    "date": "2023-12-01",
+    "note": "(攤提) 植牙費用 1/12"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-12-01",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 1419,
+    "mainCategory": "Health Insurance",
+    "subCategory": "insurance",
+    "date": "2023-12-01",
+    "note": "勞健保費"
+  },
+  {
+    "amount": 227,
+    "mainCategory": "Learning",
+    "subCategory": "software product",
+    "date": "2023-12-01",
+    "note": "(攤提) Heptabase 2679 + 40(國外交易手續費) 1/12"
+  },
+  {
+    "amount": 640,
+    "mainCategory": "Learning",
+    "subCategory": "software product",
+    "date": "2023-12-01",
+    "note": "GPT-4 631+9"
+  },
+  {
+    "amount": 2620,
+    "mainCategory": "Learning",
+    "subCategory": "programming",
+    "date": "2023-12-01",
+    "note": "(攤提) BeyondCSS 1/3"
+  },
+  {
+    "amount": 598,
+    "mainCategory": "Improve Quality of Life",
+    "subCategory": "work equipment",
+    "date": "2023-12-01",
+    "note": "(攤提) BOSE QuietComfort 45 1/12"
+  },
+  {
+    "amount": 599,
+    "mainCategory": "Communication",
+    "subCategory": "phone bill",
+    "date": "2023-12-01",
+    "note": "台灣大哥大"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-11-30",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-11-30",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-11-29",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-11-29",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-11-28",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-11-28",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-11-27",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-11-27",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 62,
+    "mainCategory": "Health Insurance",
+    "subCategory": "dentist",
+    "date": "2023-11-24",
+    "note": "看牙醫交通費-植牙預備(拍斷層-拍全口牙齒-印模)"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-11-23",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-11-23",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-11-22",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-11-22",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-11-21",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-11-21",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-11-20",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-11-20",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-11-17",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-11-17",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-11-16",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-11-16",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-11-15",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-11-15",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-11-14",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-11-14",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-11-13",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-11-13",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 602,
+    "mainCategory": "Improve Quality of Life",
+    "subCategory": "work equipment",
+    "date": "2023-11-11",
+    "note": "(攤提) BOSE QuietComfort 45"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-11-10",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-11-10",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-11-09",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-11-09",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-11-08",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-11-08",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-11-07",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-11-07",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-11-06",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-11-06",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-11-03",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-11-03",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 150,
+    "mainCategory": "Health Insurance",
+    "subCategory": "sick",
+    "date": "2023-11-03",
+    "note": "強力施美藥膏"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-11-02",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-11-02",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-11-01",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 7083,
+    "mainCategory": "Health Insurance",
+    "subCategory": "dentist",
+    "date": "2023-11-01",
+    "note": "(攤提) 植牙費用 1/12"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-11-01",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 1419,
+    "mainCategory": "Health Insurance",
+    "subCategory": "insurance",
+    "date": "2023-11-01",
+    "note": "勞健保費"
+  },
+  {
+    "amount": 227,
+    "mainCategory": "Learning",
+    "subCategory": "software product",
+    "date": "2023-11-01",
+    "note": "(攤提) Heptabase 2679 + 40(國外交易手續費) 1/12"
+  },
+  {
+    "amount": 2620,
+    "mainCategory": "Learning",
+    "subCategory": "programming",
+    "date": "2023-11-01",
+    "note": "(攤提) BeyondCSS 1/3"
+  },
+  {
+    "amount": 599,
+    "mainCategory": "Communication",
+    "subCategory": "phone bill",
+    "date": "2023-11-01",
+    "note": "台灣大哥大"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-10-31",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-10-31",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-10-30",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-10-30",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-10-27",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-10-27",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-10-26",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-10-26",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-10-25",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-10-25",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-10-24",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-10-24",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-10-23",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-10-23",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-10-20",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-10-20",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 2621,
+    "mainCategory": "Learning",
+    "subCategory": "programming",
+    "date": "2023-10-20",
+    "note": "(攤提) BeyondCSS 1/3"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-10-19",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-10-19",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-10-18",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-10-18",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-10-17",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-10-17",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-10-16",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-10-16",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-10-13",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-10-13",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-10-12",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-10-12",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-10-11",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-10-11",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-10-10",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-10-10",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-10-09",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-10-09",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-10-06",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-10-06",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-10-05",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-10-05",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-10-04",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-10-04",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-10-03",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-10-03",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-10-02",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-10-02",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 7083,
+    "mainCategory": "Health Insurance",
+    "subCategory": "dentist",
+    "date": "2023-10-01",
+    "note": "(攤提) 植牙費用 1/12"
+  },
+  {
+    "amount": 1419,
+    "mainCategory": "Health Insurance",
+    "subCategory": "insurance",
+    "date": "2023-10-01",
+    "note": "勞健保費"
+  },
+  {
+    "amount": 227,
+    "mainCategory": "Learning",
+    "subCategory": "software product",
+    "date": "2023-10-01",
+    "note": "(攤提) Heptabase 2679 + 40(國外交易手續費) 1/12"
+  },
+  {
+    "amount": 599,
+    "mainCategory": "Communication",
+    "subCategory": "phone bill",
+    "date": "2023-10-01",
+    "note": "台灣大哥大"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-09-29",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-09-29",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-09-28",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-09-28",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-09-27",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-09-27",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-09-26",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-09-26",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-09-25",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-09-25",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 65,
+    "mainCategory": "Health Insurance",
+    "subCategory": "sick",
+    "date": "2023-09-25",
+    "note": "Naturals蘆薈舒緩凝露"
+  },
+  {
+    "amount": 543,
+    "mainCategory": "Entertainment",
+    "subCategory": "friend",
+    "date": "2023-09-23",
+    "note": "交通15+37+15+37+15-防曬89-早餐35(燕麥飲)-午餐145(鮮蝦小卷米粉湯+金目鱸魚湯 各一半)-晚餐50(檸檬泡泡冰)+45(鮮奶茶)+60(章魚小丸子)"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-09-22",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-09-22",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-09-21",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-09-21",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-09-20",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-09-20",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-09-19",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-09-19",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-09-18",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-09-18",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 414,
+    "mainCategory": "Beauty",
+    "subCategory": "hair",
+    "date": "2023-09-17",
+    "note": "洗+剪399-交通15"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-09-15",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-09-15",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-09-14",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-09-14",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-09-13",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-09-13",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-09-12",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-09-12",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-09-11",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-09-11",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 328,
+    "mainCategory": "Entertainment",
+    "subCategory": "friend",
+    "date": "2023-09-09",
+    "note": "星光: 北村豆腐家"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-09-08",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-09-08",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-09-07",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-09-07",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-09-06",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-09-06",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-09-05",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-09-05",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-09-04",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-09-04",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-09-01",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 7083,
+    "mainCategory": "Health Insurance",
+    "subCategory": "dentist",
+    "date": "2023-09-01",
+    "note": "(攤提) 植牙費用 1/12"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-09-01",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 1419,
+    "mainCategory": "Health Insurance",
+    "subCategory": "insurance",
+    "date": "2023-09-01",
+    "note": "勞健保費"
+  },
+  {
+    "amount": 227,
+    "mainCategory": "Learning",
+    "subCategory": "software product",
+    "date": "2023-09-01",
+    "note": "(攤提) Heptabase 2679 + 40(國外交易手續費) 1/12"
+  },
+  {
+    "amount": 599,
+    "mainCategory": "Communication",
+    "subCategory": "phone bill",
+    "date": "2023-09-01",
+    "note": "台灣大哥大"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-08-31",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-08-31",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-08-30",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-08-30",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-08-29",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-08-29",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-08-28",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-08-28",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-08-25",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-08-25",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 1000,
+    "mainCategory": "Learning",
+    "subCategory": "seminar/conference/workshop",
+    "date": "2023-08-25",
+    "note": "AI Builder Day"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-08-24",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-08-24",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-08-23",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-08-23",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-08-22",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-08-22",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 50,
+    "mainCategory": "Food",
+    "subCategory": "snack",
+    "date": "2023-08-22",
+    "note": "全家熱可可"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-08-21",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-08-21",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-08-18",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-08-18",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-08-17",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-08-17",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-08-16",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-08-16",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-08-15",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-08-15",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-08-14",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-08-14",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 227,
+    "mainCategory": "Learning",
+    "subCategory": "software product",
+    "date": "2023-08-14",
+    "note": "(攤提) Heptabase 2679 + 40(國外交易手續費) 1/12"
+  },
+  {
+    "amount": 30,
+    "mainCategory": "Learning",
+    "subCategory": "seminar/conference/workshop",
+    "date": "2023-08-11",
+    "note": "2023 webconf 公車錢"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-08-10",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-08-10",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-08-09",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-08-09",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-08-08",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-08-08",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-08-07",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-08-07",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-08-04",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-08-04",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-08-02",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-08-02",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 50,
+    "mainCategory": "Food",
+    "subCategory": "snack",
+    "date": "2023-08-02",
+    "note": "熱可可"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-08-01",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 7083,
+    "mainCategory": "Health Insurance",
+    "subCategory": "dentist",
+    "date": "2023-08-01",
+    "note": "(攤提) 植牙費用 1/12"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-08-01",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 1419,
+    "mainCategory": "Health Insurance",
+    "subCategory": "insurance",
+    "date": "2023-08-01",
+    "note": "勞健保費"
+  },
+  {
+    "amount": 645,
+    "mainCategory": "Learning",
+    "subCategory": "software product",
+    "date": "2023-08-01",
+    "note": "GPT-4: 635 + 10"
+  },
+  {
+    "amount": 599,
+    "mainCategory": "Communication",
+    "subCategory": "phone bill",
+    "date": "2023-08-01",
+    "note": "台灣大哥大"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-07-31",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-07-31",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-07-28",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-07-28",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-07-27",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-07-27",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-07-26",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 36,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-07-26",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-07-25",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-07-25",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-07-24",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-07-24",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-07-21",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-07-21",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-07-20",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-07-20",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-07-19",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-07-18",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-07-18",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-07-17",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 26,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-07-17",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-07-14",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-07-14",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-07-13",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 26,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-07-13",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-07-12",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-07-12",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-07-11",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 26,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-07-11",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-07-10",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 26,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-07-10",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 100,
+    "mainCategory": "Health Insurance",
+    "subCategory": "dentist",
+    "date": "2023-07-08",
+    "note": "診斷證明費用"
+  },
+  {
+    "amount": 62,
+    "mainCategory": "Learning",
+    "subCategory": "seminar/conference/workshop",
+    "date": "2023-07-08",
+    "note": "AI Your Summer - 運用 GPT，像個資深工程師般思考 交通來回"
+  },
+  {
+    "amount": 634,
+    "mainCategory": "Learning",
+    "subCategory": "software product",
+    "date": "2023-07-08",
+    "note": "GPT-4: 625+9(國外交易手續費)"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-07-07",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 26,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-07-07",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 4500,
+    "mainCategory": "Learning",
+    "subCategory": "seminar/conference/workshop",
+    "date": "2023-07-07",
+    "note": "7-8 AI Your Summer - 運用 GPT，像個資深工程師般思考 💡"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-07-06",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 26,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-07-06",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-07-05",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 26,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-07-05",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-07-04",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 26,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-07-04",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 109,
+    "mainCategory": "Improve Quality of Life",
+    "subCategory": "work equipment",
+    "date": "2023-07-04",
+    "note": "輕便電腦架"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-07-03",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 26,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-07-03",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 7083,
+    "mainCategory": "Health Insurance",
+    "subCategory": "dentist",
+    "date": "2023-07-01",
+    "note": "(攤提) 植牙費用 1/12"
+  },
+  {
+    "amount": 1419,
+    "mainCategory": "Health Insurance",
+    "subCategory": "insurance",
+    "date": "2023-07-01",
+    "note": "勞健保費"
+  },
+  {
+    "amount": 599,
+    "mainCategory": "Communication",
+    "subCategory": "phone bill",
+    "date": "2023-07-01",
+    "note": "台灣大哥大"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-06-30",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 26,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-06-30",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 2800,
+    "mainCategory": "Learning",
+    "subCategory": "seminar/conference/workshop",
+    "date": "2023-06-30",
+    "note": "生成式 AI 年會回放票"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-06-29",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 26,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-06-29",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 180,
+    "mainCategory": "Learning",
+    "subCategory": "seminar/conference/workshop",
+    "date": "2023-06-29",
+    "note": "0711 AI Your Summer - 將 LLM 導入跨部門協助與產品（早鳥線上票）"
+  },
+  {
+    "amount": 3400,
+    "mainCategory": "Learning",
+    "subCategory": "seminar/conference/workshop",
+    "date": "2023-06-29",
+    "note": "0811-12 2023 WebConf Taiwan 研討會（盲鳥票）"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-06-28",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 26,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-06-28",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-06-27",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 26,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-06-27",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-06-26",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 26,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-06-26",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 30,
+    "mainCategory": "Entertainment",
+    "subCategory": "family",
+    "date": "2023-06-24",
+    "note": "京站逛街吃飯公車錢"
+  },
+  {
+    "amount": 30,
+    "mainCategory": "Entertainment",
+    "subCategory": "family",
+    "date": "2023-06-23",
+    "note": "京站逛街吃飯公車錢"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-06-13",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 26,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-06-13",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 100,
+    "mainCategory": "Learning",
+    "subCategory": "seminar/conference/workshop",
+    "date": "2023-06-13",
+    "note": "0613 AI Your Summer - 軟體團隊與 GAI：與 AI 協作的成與敗（線上票）"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-06-12",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 26,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-06-12",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-06-09",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 26,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-06-09",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-06-08",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 26,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-06-08",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 39,
+    "mainCategory": "Food",
+    "subCategory": "lunch",
+    "date": "2023-06-08",
+    "note": "韓式燒肉玉飯團"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-06-07",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 26,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-06-07",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-06-06",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 26,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-06-06",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-06-05",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 26,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-06-05",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-06-02",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 26,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-06-02",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-06-01",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 7083,
+    "mainCategory": "Health Insurance",
+    "subCategory": "dentist",
+    "date": "2023-06-01",
+    "note": "(攤提) 植牙費用 1/12"
+  },
+  {
+    "amount": 26,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-06-01",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 1419,
+    "mainCategory": "Health Insurance",
+    "subCategory": "insurance",
+    "date": "2023-06-01",
+    "note": "勞健保費"
+  },
+  {
+    "amount": 599,
+    "mainCategory": "Communication",
+    "subCategory": "phone bill",
+    "date": "2023-06-01",
+    "note": "台灣大哥大"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-05-31",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 26,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-05-31",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-05-30",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 26,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-05-30",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-05-29",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 26,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-05-29",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-05-26",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 26,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-05-26",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-05-25",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-05-25",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-05-24",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 26,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-05-24",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-05-23",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-05-23",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-05-22",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 26,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-05-22",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-05-19",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 62,
+    "mainCategory": "Health Insurance",
+    "subCategory": "dentist",
+    "date": "2023-05-19",
+    "note": "看牙醫交通費"
+  },
+  {
+    "amount": 26,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-05-19",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-05-18",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-05-18",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-05-17",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 26,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-05-17",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-05-16",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 26,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-05-16",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-05-15",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-05-15",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 46,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-05-12",
+    "note": "小農雪點鮮奶茶(85折優惠)"
+  },
+  {
+    "amount": 26,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-05-12",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-05-11",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-05-11",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-05-10",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 26,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-05-10",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-05-09",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 26,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-05-09",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-05-08",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-05-08",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-05-05",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 26,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-05-05",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-05-04",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-05-04",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 39,
+    "mainCategory": "Food",
+    "subCategory": "snack",
+    "date": "2023-05-04",
+    "note": "比利時克特多金象黑巧克力"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-05-03",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 26,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-05-03",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 30,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-05-03",
+    "note": "桂格豆漿燕麥飲"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-05-02",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 26,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-05-02",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 30,
+    "mainCategory": "Food",
+    "subCategory": "snack",
+    "date": "2023-05-02",
+    "note": "義美堅果杏仁飲"
+  },
+  {
+    "amount": 62,
+    "mainCategory": "Health Insurance",
+    "subCategory": "dentist",
+    "date": "2023-05-01",
+    "note": "看牙醫交通費-植牙"
+  },
+  {
+    "amount": 7087,
+    "mainCategory": "Health Insurance",
+    "subCategory": "dentist",
+    "date": "2023-05-01",
+    "note": "(攤提) 植牙費用 1/12"
+  },
+  {
+    "amount": 1419,
+    "mainCategory": "Health Insurance",
+    "subCategory": "insurance",
+    "date": "2023-05-01",
+    "note": "勞健保費"
+  },
+  {
+    "amount": 599,
+    "mainCategory": "Communication",
+    "subCategory": "phone bill",
+    "date": "2023-05-01",
+    "note": "台灣大哥大"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-04-28",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 26,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-04-28",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-04-27",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-04-27",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-04-26",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 26,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-04-26",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-04-25",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 26,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-04-25",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-04-24",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-04-24",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 30,
+    "mainCategory": "Entertainment",
+    "subCategory": "family",
+    "date": "2023-04-23",
+    "note": "京站吃晚餐+買慢跑鞋交通費"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-04-21",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 26,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-04-21",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 80,
+    "mainCategory": "Food",
+    "subCategory": "snack",
+    "date": "2023-04-21",
+    "note": "青寧塔NT$50+軟餅乾NT$30"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-04-20",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 26,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-04-20",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-04-19",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 26,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-04-19",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-04-18",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 26,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-04-18",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 49,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-04-17",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 62,
+    "mainCategory": "Health Insurance",
+    "subCategory": "dentist",
+    "date": "2023-04-17",
+    "note": "看牙醫交通費"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-04-17",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-04-14",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 26,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-04-14",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-04-13",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 26,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-04-13",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-04-12",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 26,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-04-12",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-04-11",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-04-10",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-04-10",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 53,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-04-07",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 48,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-04-06",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-04-06",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 30,
+    "mainCategory": "Entertainment",
+    "subCategory": "family",
+    "date": "2023-04-04",
+    "note": "京站看電影(鈴芽之旅)交通費"
+  },
+  {
+    "amount": 399,
+    "mainCategory": "Beauty",
+    "subCategory": "clothes",
+    "date": "2023-04-04",
+    "note": "鴨舌帽(有熊大圖案)"
+  },
+  {
+    "amount": 790,
+    "mainCategory": "Beauty",
+    "subCategory": "clothes",
+    "date": "2023-04-04",
+    "note": "黑色束口褲(涼感-舒適)"
+  },
+  {
+    "amount": 2689,
+    "mainCategory": "Beauty",
+    "subCategory": "hair",
+    "date": "2023-04-02",
+    "note": "燙髮(含洗+剪)NT$1500-舒壓洗NT$599-亮澤護NT$560-交通費NT$30"
+  },
+  {
+    "amount": 1419,
+    "mainCategory": "Health Insurance",
+    "subCategory": "insurance",
+    "date": "2023-04-01",
+    "note": "勞健保費"
+  },
+  {
+    "amount": 599,
+    "mainCategory": "Communication",
+    "subCategory": "phone bill",
+    "date": "2023-04-01",
+    "note": "台灣大哥大"
+  },
+  {
+    "amount": 45,
+    "mainCategory": "Beauty",
+    "subCategory": "hair",
+    "date": "2023-04-01",
+    "note": "場勘碰運氣交通費(搭錯方向多花NT$15)"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-03-31",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 62,
+    "mainCategory": "Health Insurance",
+    "subCategory": "dentist",
+    "date": "2023-03-31",
+    "note": "看牙醫交通費-植牙預備(拍斷層-拍全口牙齒-印模)"
+  },
+  {
+    "amount": 23,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-03-31",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 55,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-03-30",
+    "note": "小農雪點鮮奶茶"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-03-30",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 50,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-03-29",
+    "note": "飲料"
+  },
+  {
+    "amount": 23,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-03-29",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 60,
+    "mainCategory": "Food",
+    "subCategory": "snack",
+    "date": "2023-03-29",
+    "note": "路易莎軟餅乾+馬德蓮"
+  },
+  {
+    "amount": 50,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-03-28",
+    "note": "飲料"
+  },
+  {
+    "amount": 23,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-03-28",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 60,
+    "mainCategory": "Food",
+    "subCategory": "snack",
+    "date": "2023-03-28",
+    "note": "路易莎軟餅乾*2"
+  },
+  {
+    "amount": 50,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-03-27",
+    "note": "飲料"
+  },
+  {
+    "amount": 20,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-03-27",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 54,
+    "mainCategory": "Food",
+    "subCategory": "snack",
+    "date": "2023-03-27",
+    "note": "路易莎軟餅乾*2"
+  },
+  {
+    "amount": 50,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-03-25",
+    "note": "伯爵鮮奶茶"
+  },
+  {
+    "amount": 23,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-03-25",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 70,
+    "mainCategory": "Food",
+    "subCategory": "lunch",
+    "date": "2023-03-25",
+    "note": "青醬野菇磚壓三明治+蛋"
+  },
+  {
+    "amount": 50,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-03-24",
+    "note": "四季翠玉鮮奶茶"
+  },
+  {
+    "amount": 23,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-03-24",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 50,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-03-23",
+    "note": "伯爵鮮奶茶"
+  },
+  {
+    "amount": 30,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-03-23",
+    "note": "桂格豆漿燕麥飲"
+  },
+  {
+    "amount": 50,
+    "mainCategory": "Places",
+    "subCategory": "coffee shop",
+    "date": "2023-03-22",
+    "note": "伯爵鮮奶茶"
+  },
+  {
+    "amount": 23,
+    "mainCategory": "Food",
+    "subCategory": "breakfast",
+    "date": "2023-03-22",
+    "note": "茶葉蛋*2"
+  },
+  {
+    "amount": 40,
+    "mainCategory": "Food",
+    "subCategory": "snack",
+    "date": "2023-03-22",
+    "note": "路易莎軟餅乾*2"
+  }
+]

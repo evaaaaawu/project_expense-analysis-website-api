@@ -30,6 +30,10 @@ const categorySchema = new Schema({
       message: "At least one subcategory is required.",
     },
   },
+  isSeedData: {
+    type: Boolean,
+    default: false,
+  },
 });
 
 module.exports = mongoose.model("Category", categorySchema);
