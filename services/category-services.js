@@ -42,6 +42,10 @@ const categoryServices = {
       if (!updatedCategory) {
         throw createError(404, "Category not found or user not authorized.");
       }
+
+      // TODO: debug 用，開發完成後刪除
+      console.log("[Category updated successfully:]", updatedCategory);
+
       cb(null, {status: "success", category: updatedCategory});
     } catch (err) {
       console.error("Failed to update category:", err);
