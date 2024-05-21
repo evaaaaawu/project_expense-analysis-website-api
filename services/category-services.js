@@ -1,5 +1,6 @@
 const Category = require("../models/category");
 const createError = require("http-errors");
+const mongoose = require("mongoose");
 
 const categoryServices = {
   addCategory: async (req, cb) => {
@@ -34,9 +35,27 @@ const categoryServices = {
   },
   updateCategory: async (categoryId, userId, categoryData, cb) => {
     try {
+      // 獲取舊的分類資料
+      const oldCategory = await Category.findById(categoryId);
+      if (!oldCategory) {
+        throw createError(404, "Category not found or user not authorized.");
+      }
+
+      // 將舊的子分類轉換為以名稱為鍵的對象
+      const oldSubCategoriesMap = {};
+      oldCategory.subCategories.forEach((sub) => {
+        oldSubCategoriesMap[sub.name] = sub._id;
+      });
+
+      // 更新分類資料時，保留子分類的 ID
+      const updatedSubCategories = categoryData.subCategories.map((sub) => ({
+        name: sub.name,
+        _id: oldSubCategoriesMap[sub.name] || new mongoose.Types.ObjectId(),
+      }));
+
       const updatedCategory = await Category.findOneAndUpdate(
           {_id: categoryId, userId: userId},
-          {$set: categoryData},
+          {$set: {...categoryData, subCategories: updatedSubCategories}},
           {new: true},
       );
       if (!updatedCategory) {
