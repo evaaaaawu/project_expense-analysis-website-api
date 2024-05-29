@@ -136,6 +136,17 @@ const userServices = {
       cb(err);
     }
   },
+  getUserInfo: async (userId, cb) => {
+    try {
+      const user = await User.findById(userId, "email");
+      if (!user) {
+        throw createError(404, "User not found");
+      }
+      cb(null, user);
+    } catch (err) {
+      cb(err);
+    }
+  },
 };
 
 module.exports = userServices;
