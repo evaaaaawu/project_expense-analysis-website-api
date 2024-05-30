@@ -12,8 +12,9 @@ const {generalErrorHandler} = require("../middleware/error-handler");
 router.post("/api/users", userController.signUp);
 router.post("/api/users/login", userController.signIn);
 
-// user info
+// user
 router.get("/api/users/info", authenticated, userController.getUserInfo);
+router.delete("/api/users/:id", authenticated, userController.deleteUser);
 
 // category
 router.post("/api/categories", authenticated, categoryController.addCategory);

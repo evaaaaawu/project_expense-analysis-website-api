@@ -99,9 +99,6 @@ const recordServices = {
 
       const records = await Record.aggregate(pipeline);
 
-      // TODO: debug 用，開發完成後刪除
-      console.log("[Records fetched successfully:]", records);
-
       cb(null, {status: "success", records: records});
     } catch (err) {
       console.error("Failed to get records:", err);

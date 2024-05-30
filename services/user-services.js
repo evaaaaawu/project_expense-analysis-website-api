@@ -1,8 +1,11 @@
 const User = require("../models/user");
 const Category = require("../models/category");
+const Record = require("../models/record");
+
 const createError = require("http-errors");
 const bcrypt = require("bcryptjs");
 const jwt = require("jsonwebtoken");
+
 const JWT_SECRET = process.env.JWT_SECRET;
 
 const userServices = {
@@ -144,6 +147,29 @@ const userServices = {
       }
       cb(null, user);
     } catch (err) {
+      cb(err);
+    }
+  },
+  deleteUser: async (userId, cb) => {
+    try {
+      // 刪除所有與該 userId 相關的 records
+      await Record.deleteMany({userId});
+
+      // 刪除所有與該 userId 相關的 categories
+      await Category.deleteMany({userId});
+
+      // 刪除使用者本身
+      const deletedUser = await User.findByIdAndDelete(userId);
+      if (!deletedUser) {
+        throw createError(404, "User not found.");
+      }
+
+      cb(null, {
+        status: "success",
+        message: "User and related data deleted successfully.",
+      });
+    } catch (err) {
+      console.error("Failed to delete user:", err);
       cb(err);
     }
   },

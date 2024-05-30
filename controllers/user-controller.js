@@ -18,6 +18,12 @@ const userController = {
       res.status(200).json({email: user.email});
     });
   },
+  deleteUser: (req, res, next) => {
+    const userId = req.params.id;
+    userServices.deleteUser(userId, (err, data) =>
+      err ? next(err) : res.status(200).json(data),
+    );
+  },
 };
 
 module.exports = userController;
