@@ -28,11 +28,27 @@ router.delete(
 
 // record
 router.post("/api/records", authenticated, recordController.addRecord);
-router.get("/api/records", authenticated, recordController.getRecords);
-router.get("/api/records", authenticated, recordController.getRecords);
+
+// TODO: 舊的 getRecords 方法，前端遷移完成後刪除
+router.get("/api/v1/records", authenticated, recordController.getRecords);
+
+// 新的 getRecords 方法
+router.get("/api/v2/records", authenticated, recordController.getRawRecords);
+router.get(
+    "/api/v2/records/categories",
+    authenticated,
+    recordController.getCategoryRecords,
+);
+router.get(
+    "/api/v2/records/periods",
+    authenticated,
+    recordController.getPeriodRecords,
+);
+
 router.put(
     "/api/records/:id", authenticated, recordController.updateRecord,
 );
+
 router.delete(
     "/api/records/:id", authenticated, recordController.deleteRecord,
 );

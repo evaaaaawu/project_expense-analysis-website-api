@@ -33,6 +33,8 @@ const recordServices = {
       cb(err);
     }
   },
+
+  // TODO: 舊的 getRecords 方法，前端遷移完成後刪除
   getRecords: async (userId, startDate, endDate, cb) => {
     try {
       // 建立聚合管道
@@ -105,6 +107,123 @@ const recordServices = {
       cb(err);
     }
   },
+
+  // 新的 getRecords 方法
+  getRawRecords: async (userId, startDate, endDate, cb) => {
+    try {
+      const query = {userId};
+      if (startDate && endDate) {
+        query.date = {$gte: new Date(startDate), $lte: new Date(endDate)};
+      }
+      const records = await Record.find(query).sort({date: -1});
+      cb(null, {status: "success", records});
+    } catch (err) {
+      console.error("Failed to get records:", err);
+      cb(err);
+    }
+  },
+  getCategoryRecords: async (userId, startDate, endDate, cb) => {
+    try {
+      const start = new Date(startDate);
+      const end = new Date(endDate);
+      const records = await Record.aggregate([
+        {$match: {userId, date: {$gte: start, $lte: end}}},
+        {
+          $lookup: {
+            from: "categories",
+            localField: "category.mainCategory",
+            foreignField: "_id",
+            as: "mainCategoryDetails",
+          },
+        },
+        {$unwind: "$mainCategoryDetails"},
+        {
+          $group: {
+            _id: "$mainCategoryDetails.mainCategory",
+            totalAmount: {$sum: "$amount"},
+          },
+        },
+        {
+          $project: {
+            _id: 0,
+            category: "$_id",
+            totalAmount: 1,
+          },
+        },
+      ]);
+
+      const totalAmount =
+        records.reduce((acc, record) => acc + record.totalAmount, 0);
+      const recordsWithPercentage = records.map((record) => ({
+        category: record.category,
+        totalAmount: record.totalAmount,
+        percentage: Math.round((record.totalAmount / totalAmount) * 100),
+      }));
+
+      cb(null, {status: "success", records: recordsWithPercentage});
+    } catch (err) {
+      console.error("Failed to get category records:", err);
+      cb(err);
+    }
+  },
+  getPeriodRecords: async (userId, periodType, startDate, endDate, cb) => {
+    try {
+      const start = new Date(startDate);
+      const end = new Date(endDate);
+      let groupByPeriod;
+
+      switch (periodType) {
+        case "month":
+          groupByPeriod = {$dateToString: {format: "%Y-%m", date: "$date"}};
+          break;
+        case "quarter":
+          groupByPeriod = {
+            $concat: [
+              {$toString: {$year: "$date"}},
+              "-Q",
+              {$toString: {$ceil: {$divide: [{$month: "$date"}, 3]}}},
+            ],
+          };
+          break;
+        case "year":
+          groupByPeriod = {$dateToString: {format: "%Y", date: "$date"}};
+          break;
+        default:
+          throw new Error("Invalid period type");
+      }
+
+      const records = await Record.aggregate([
+        {$match: {userId, date: {$gte: start, $lte: end}}},
+        {
+          $group: {
+            _id: groupByPeriod,
+            totalAmount: {$sum: "$amount"},
+          },
+        },
+        {
+          $project: {
+            _id: 0,
+            period: "$_id",
+            totalAmount: 1,
+          },
+        },
+      ]);
+
+      const totalAmount =
+        records.reduce((acc, record) => acc + record.totalAmount, 0);
+      const recordsWithPercentage = records.map((record) => ({
+        period: record.period,
+        totalAmount: record.totalAmount,
+        percentage: Math.round((record.totalAmount / totalAmount) * 100),
+      }));
+
+      cb(null, {status: "success", records: recordsWithPercentage});
+    } catch (err) {
+      console.error("Failed to get period records:", err);
+      cb(err);
+    }
+  },
+
   updateRecord: async (recordId, userId, recordData, cb) => {
     try {
       const updatedRecord = await Record.findOneAndUpdate(
@@ -129,6 +248,7 @@ const recordServices = {
       cb(err);
     }
   },
+
   deleteRecord: async (recordId, userId, cb) => {
     try {
       const deletedRecord = await Record.findOneAndDelete(
